@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+numpy = "*"
+sklearn = "*"
+scipy = "*"
+jupyter = "*"
+seaborn = "*"
+matplotlib = "*"
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+preprocessing = "python scripts/preprocessing_dami.py"
+evaluation = "jupyter nbconvert --inplace --execute notebooks/experiment_evaluation.ipynb"
