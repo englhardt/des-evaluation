@@ -2,7 +2,7 @@
 
 This repository contains scripts and notebooks to reproduce the experiments and analyses of the paper
 
-> Adrian Englhardt, Klemens Böhm, “Exploring the Unknown - Query Synthesis in One-Class Active Learning”. In: Proceedings of the 2020 SIAM International Conference on Data Mining (SDM), May 7-9, 2020, Cincinnati, Ohio, USA.
+> Adrian Englhardt, Klemens Böhm, “Exploring the Unknown - Query Synthesis in One-Class Active Learning”. In: Proceedings of the 2020 SIAM International Conference on Data Mining (SDM), DOI: [10.1137/1.9781611976236.17](https://doi.org/10.1137/1.9781611976236.17), May 7-9, 2020, Cincinnati, Ohio, USA.
 
 For more information about this research project, see also the [project website](https://www.ipd.kit.edu/des/).
 For a general overview and a benchmark on one-class active learning see the [OCAL project website](https://www.ipd.kit.edu/ocal/).
